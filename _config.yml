@@ -1,0 +1,9 @@
+title: "Venusha Sree Portfolio"
+theme: cayman
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects/"
+  - name: "Contact"
+    link: "/contact/"
